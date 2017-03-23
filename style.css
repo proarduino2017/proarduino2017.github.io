@@ -71,7 +71,9 @@ div.under_header h1{ text-transform:uppercase; font-size:18px; color:white;}
 	height:26px;width:101px;background-color:#43667b;padding:8px 15px; 
 }
 .one_parag .p_Button a{font-size:14px;color:white; text-decoration:none;}
-
+.organisers .h1 .a{
+	color:black;
+};
 
 
 .image_wrapper {
